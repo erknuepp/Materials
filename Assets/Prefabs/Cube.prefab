@@ -110,6 +110,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6326c1cbf5ca8f4fbdf629f8bf0e7e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpinFactor: 549
+  SpinFactor: 46
   RotateAmount: {x: 1, y: 1, z: 1}
-  ColorFactor: 167
+  RedColorFactor: 76
